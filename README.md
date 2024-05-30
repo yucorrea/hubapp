@@ -1,50 +1,46 @@
-# Welcome to your Expo app 👋
+<p align="center">
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+ <a href="#art-layout">Como usar</a>&nbsp;&nbsp;&nbsp;
+</p>
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## :rocket: Tecnologias
 
-## Get started
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
-1. Install dependencies
+- [Typescript](https://www.typescriptlang.org/)
+- [Expo](https://docs.expo.dev/)
+- [Expo Router](https://docs.expo.dev/router/introduction/)
+- [React Query](https://tanstack.com/query/)
+- [Axios](https://github.com/axios/axios)
 
-   ```bash
-   npm install
-   ```
+---
 
-2. Start the app
+## :art: Layout
 
-   ```bash
-    npx expo start
-   ```
+ <div style="display: flex; margin-bottom: 32px; gap: 20px">
+     <img alt="03" src="./github/03.png" style="width: 250px; margin-right: 16px; border-radius: 8px" />
+     <img alt="02" src="./github/02.png" style="width: 250px; border-radius: 8px"/>
+     <img alt="01" src="./github/01.png" style="width: 250px; border-radius: 8px"/>
+ </div>
 
-In the output, you'll find options to open the app in a
+---
+## :information_source: Como usar
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+Você deve ter os seguintes programas instalados em seu sistema operacional. [Git](https://git-scm.com) | [Node.js](https://nodejs.org/en/) |  [Yarn](https://yarnpkg.com/)  | [Expo](https://expo.dev/)
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
 
 ```bash
-npm run reset-project
+
+# Clone o repositório
+$ git clone https://github.com/yucorrea/hubapp
+
+# Navegue até a pasta do projeto
+$ cd hubapp
+
+# Instale as dependências
+$ yarn install or npm install
+
+ \{^_^}/ hi!
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Desenvolvido por: Yuri Corrêa :wave: [Entrar em contato!](https://www.linkedin.com/in/yucorrea/)

@@ -1,5 +1,6 @@
 import { Redirect, Stack } from "expo-router";
 export default function Layout() {
+  ///TODO: Implementing authentication
   const session = true;
 
   if(!session) return <Redirect href={"sign-in"}/>
